@@ -1,0 +1,11 @@
+E:\vs проекты\TA2.0\TA2.0\bin\Debug\TA2.0.exe.config
+E:\vs проекты\TA2.0\TA2.0\bin\Debug\TA2.0.exe
+E:\vs проекты\TA2.0\TA2.0\bin\Debug\TA2.0.pdb
+E:\vs проекты\TA2.0\TA2.0\obj\Debug\TA2.0.csproj.AssemblyReference.cache
+E:\vs проекты\TA2.0\TA2.0\obj\Debug\TA2._0.Properties.Resources.resources
+E:\vs проекты\TA2.0\TA2.0\obj\Debug\TA2.0.csproj.GenerateResource.cache
+E:\vs проекты\TA2.0\TA2.0\obj\Debug\TA2.0.csproj.CoreCompileInputs.cache
+E:\vs проекты\TA2.0\TA2.0\obj\Debug\TA2.0.exe
+E:\vs проекты\TA2.0\TA2.0\obj\Debug\TA2.0.pdb
+E:\vs проекты\TA2.0\TA2.0\obj\Debug\TA2._0.Start.resources
+E:\vs проекты\TA2.0\TA2.0\obj\Debug\TA2._0.Input.resources
